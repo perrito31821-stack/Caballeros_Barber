@@ -1,0 +1,36 @@
+CREDENCIALES INICIALES · CABALLEROS BARBER
+=========================================
+
+Estas cuentas son exclusivas para que cada profesional gestione SUS PROPIAS reservas.
+No tienen permisos para transferir turnos, administrar otros profesionales, cobrar, eliminar pagos ni entrar al panel de administración.
+
+BARBERO 1
+Usuario: Barbero1
+Contraseña: Chiripiorka4352
+
+BARBERO 2
+Usuario: Barbero2
+Contraseña: Navaja!7284K
+
+BARBERO 3
+Usuario: Barbero3
+Contraseña: Corte#9137Lm
+
+BARBERO 4
+Usuario: Barbero4
+Contraseña: Fade$5821Qr
+
+BARBERO 5
+Usuario: Barbero5
+Contraseña: Barba@6409Zx
+
+BARBERO 6
+Usuario: Barbero6
+Contraseña: Estilo%2746Np
+
+BELLEZA
+Usuario: Belleza
+Contraseña: Belleza&8352Tk
+
+RECOMENDACIÓN
+Después de entregar el sistema, cambia estas contraseñas mediante un mecanismo de administración de credenciales si se incorpora posteriormente.
